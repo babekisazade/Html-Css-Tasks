@@ -1,0 +1,11 @@
+.container {
+    width: 85%;
+    max-width: 1140px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    margin-left: -15%;
+    margin-right: -15%;
+}
