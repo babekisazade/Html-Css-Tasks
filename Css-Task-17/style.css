@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Istok Web", sans-serif;
+    color: gray;
+}
+
+.user-name {
+    color: black;
+    margin-top: 10px;
+}
+
+.user-status {
+    margin-top: 30px;
+    color: gray;
+    padding-top: 15px;
+}
+
+.section-heading-h2 {
+    margin-bottom: 1.8rem;
+    font-size: 2rem;
+    font-weight: 900;
+    color: black;
+}
+
+.item-content{
+    padding-top: 15px;
+}
